@@ -1,0 +1,16 @@
+# Build outputs
+build/
+*.exe
+*.zip
+
+# Downloaded dependencies
+ffmpeg-release-essentials.zip
+YTDownloader_Windows.zip
+
+# System/temporary files
+=*
+
+# Local development folders
+yay/
+package/
+YTDownloader/
